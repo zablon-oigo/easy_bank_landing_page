@@ -11,7 +11,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone git@github.com:zablon-oigo/easy_bank_landing_page.git
 ```
 
 Go to the project directory
